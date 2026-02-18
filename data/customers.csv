@@ -1,0 +1,31 @@
+id,name,email,signup_date,segment
+1,Customer 1,user1@example.com,2025-02-21,Home Office
+2,Customer 2,user2@example.com,2025-02-24,Consumer
+3,Customer 3,user3@example.com,2025-02-27,Corporate
+4,Customer 4,user4@example.com,2025-03-02,Home Office
+5,Customer 5,user5@example.com,2025-03-05,Consumer
+6,Customer 6,user6@example.com,2025-03-08,Corporate
+7,Customer 7,user7@example.com,2025-03-11,Home Office
+8,Customer 8,user8@example.com,2025-03-14,Consumer
+9,Customer 9,user9@example.com,2025-03-17,Corporate
+10,Customer 10,user10@example.com,2025-03-20,Home Office
+11,Customer 11,user11@example.com,2025-03-23,Consumer
+12,Customer 12,user12@example.com,2025-03-26,Corporate
+13,Customer 13,user13@example.com,2025-03-29,Home Office
+14,Customer 14,user14@example.com,2025-04-01,Consumer
+15,Customer 15,user15@example.com,2025-04-04,Corporate
+16,Customer 16,user16@example.com,2025-04-07,Home Office
+17,Customer 17,user17@example.com,2025-04-10,Consumer
+18,Customer 18,user18@example.com,2025-04-13,Corporate
+19,Customer 19,user19@example.com,2025-04-16,Home Office
+20,Customer 20,user20@example.com,2025-04-19,Consumer
+21,Customer 21,user21@example.com,2025-04-22,Corporate
+22,Customer 22,user22@example.com,2025-04-25,Home Office
+23,Customer 23,user23@example.com,2025-04-28,Consumer
+24,Customer 24,user24@example.com,2025-05-01,Corporate
+25,Customer 25,user25@example.com,2025-05-04,Home Office
+26,Customer 26,user26@example.com,2025-05-07,Consumer
+27,Customer 27,user27@example.com,2025-05-10,Corporate
+28,Customer 28,user28@example.com,2025-05-13,Home Office
+29,Customer 29,user29@example.com,2025-05-16,Consumer
+30,Customer 30,user30@example.com,2025-05-19,Corporate
